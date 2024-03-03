@@ -2,27 +2,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://luos.io/" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="罗标志" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/b2957503ee8a6e7857332172c3392374ef4508b4dfd620e609dfe3f164c45961/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3630316137386132623564303330323630613430623761642f3630336530636334356166626235303936336161383566325f4769662532306e6f6972253230726563742e676966" height="100" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="200" height="100"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩罗标志" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩罗标志">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开罗标志" class="AnimatedImagePlayer-button" href="https://luos.io/" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+     
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Luos-io/luos_engine/actions/workflows/build.yml/badge.svg"><img src="https://github.com/Luos-io/luos_engine/actions/workflows/build.yml/badge.svg" alt="" style="max-width: 100%;"></a>
 <a href="https://github.com/Luos-io/luos_engine/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/e4295d80d3dbfec8414bd1dea7c755d950c3b7cd19b8787a3d9a70542f3b765c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4c756f732d696f2f6c756f735f656e67696e65" alt="" data-canonical-src="https://img.shields.io/github/license/Luos-io/luos_engine" style="max-width: 100%;"></a>
 <a href="https://www.luos.io/docs" rel="nofollow"><img src="https://camo.githubusercontent.com/f01e87e811be355f53481992305c12cf8722b83564446f3583acee7618ca7fbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c756f732d446f63756d656e746174696f6e2d333441334234" alt="" data-canonical-src="https://img.shields.io/badge/Luos-Documentation-34A3B4" style="max-width: 100%;"></a>
